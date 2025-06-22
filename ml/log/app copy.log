@@ -1,0 +1,6 @@
+2025-06-10  17:34:03 - log - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\OneDrive\Desktop\ml_saga\sakthivel\lr.py", line 17, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero

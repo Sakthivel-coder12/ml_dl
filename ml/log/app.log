@@ -1,0 +1,93 @@
+2025-06-10 17:11:29,974 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\134886411.py", line 6, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:13:42,947 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\1255810384.py", line 6, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:14:08,889 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\86011224.py", line 6, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:14:21,453 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\86011224.py", line 6, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:16:25,972 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\2916826817.py", line 14, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:17:04,905 - ERROR - Exception occurred
+2025-06-10 17:18:06,055 - ERROR - Exception occurred
+2025-06-10 17:18:26,158 - ERROR - Exception occurred
+2025-06-10 17:19:04,117 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\4132866072.py", line 14, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:20:21,741 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\4132866072.py", line 14, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:23:11,360 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\2321407322.py", line 14, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:23:47,458 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\3679136245.py", line 14, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:28:21,542 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\2398526493.py", line 16, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:28:26,525 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\1556553274.py", line 16, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:29:07,992 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\922475511.py", line 16, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:29:34,029 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\4043676795.py", line 16, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:30:35,758 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\250871527.py", line 17, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-06-10 17:31:20,551 - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sakth\AppData\Local\Temp\ipykernel_22200\1883550685.py", line 17, in log_exception_error_level
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero

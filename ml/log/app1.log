@@ -1,0 +1,12 @@
+2025-06-10  14-28-01 - Arithemethic - DEBUG - The addition is 10 + 15 = 25
+2025-06-10  14-28-01 - Arithemethic - DEBUG - The substraction is 10 - 5 = 5
+2025-06-10  14-28-01 - Arithemethic - DEBUG - The multiplication is 10 * 10 = 100
+2025-06-10  14-28-01 - Arithemethic - DEBUG - The division is 10 / 2 = 5.0
+2025-06-10  14-28-39 - Arithemethic - DEBUG - The addition is 10 + 15 = 25
+2025-06-10  14-28-39 - Arithemethic - DEBUG - The substraction is 10 - 5 = 5
+2025-06-10  14-28-39 - Arithemethic - DEBUG - The multiplication is 10 * 10 = 100
+2025-06-10  14-28-39 - Arithemethic - ERROR - The Division by zero error...!
+2025-06-10  18-29-40 - Arithemethic - DEBUG - The addition is 10 + 15 = 25
+2025-06-10  18-29-40 - Arithemethic - DEBUG - The substraction is 10 - 5 = 5
+2025-06-10  18-29-40 - Arithemethic - DEBUG - The multiplication is 10 * 10 = 100
+2025-06-10  18-29-40 - Arithemethic - ERROR - The Division by zero error...!
